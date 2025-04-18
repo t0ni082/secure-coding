@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-SocketIO
+python-socketio
+python-engineio
+Flask-Cors
+Werkzeug
+eventlet
